@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chloe's%20github&fontSize=90)
 
 <div align="">
   
