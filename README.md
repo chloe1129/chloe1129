@@ -1,4 +1,4 @@
-# Hi I'm Chloe. 
+# Hi👋 I'm Chloe. 
   
   
 <div align=center>
