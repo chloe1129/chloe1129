@@ -8,6 +8,10 @@
   <br>  
   <br>  
   
+  ### My Skills
+  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
+  
   
   <h3>My Git Stats</h3>
   
