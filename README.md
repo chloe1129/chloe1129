@@ -1,17 +1,21 @@
-# Hi👋 I'm Chloe. 
+## Hi👋 I'm Chloe. 
+  
+  <br>  
+  <br>  
   
   
 <div align=center>
-  <br>
-  <br>
+  <br>  
+  <br>  
+  
   
   **My Git Stats**
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe1129&show_icons=true&theme=transparent)
   
   
-  <br>
-  <br>
+  <br>  
+  <br>  
   
   
   **My Most Used Language**
