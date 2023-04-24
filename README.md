@@ -1,7 +1,6 @@
 ## Hi👋 I'm Chloe. 
   
-  <br>  
-  <br>  
+  <br>   
   
   
 <div align=center>
@@ -24,7 +23,7 @@
   
   
                    
-    <br>
+    <br>  
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
