@@ -5,8 +5,7 @@
   
   ### I'm Chloe.  
   
-  <br>  
-  <br>  
+  <br>   
   
   ### My Skills
   
@@ -19,7 +18,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   
   
-  <br> 
+  <br>  
   
   
   <h3>My Git Stats</h3>
