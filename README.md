@@ -32,7 +32,6 @@
   <br>  
   <br>  
   
-  
   <h3>🗣 My Most Used Language 🗣</h3>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloe1129&layout=compact)](https://github.com/chloe1129/github-readme-stats)
