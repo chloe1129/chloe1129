@@ -1,9 +1,8 @@
-## Hi👋 I'm Chloe. 
-  
-  <br>   
-  
-  
+
 <div align=center>
+  
+  ## Hi👋 I'm Chloe.  
+  
   <br>  
   <br>  
   
