@@ -1,6 +1,9 @@
 
 <div align=center>
   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CHLOE's GIT&fontSize=90" />
+
+  
   ### Hi 👋  
   
   ### I'm Chloe.  
