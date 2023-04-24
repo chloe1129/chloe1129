@@ -3,7 +3,7 @@
   
   ### Hi👋  
   
-  ###I'm Chloe.  
+  ### I'm Chloe.  
   
   <br>  
   <br>  
