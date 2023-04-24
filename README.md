@@ -1,7 +1,9 @@
 
 <div align=center>
   
-  ### Hi👋 I'm Chloe.  
+  ### Hi👋  
+  
+  ###I'm Chloe.  
   
   <br>  
   <br>  
