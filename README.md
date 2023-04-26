@@ -31,7 +31,7 @@
   <br>  
   <br>  
   
-  
+    
   <h3>👾 My Git Stats 👾</h3>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe1129&show_icons=true&theme=transparent)
@@ -45,7 +45,6 @@
   
   
                    
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
