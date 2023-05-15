@@ -34,7 +34,7 @@
   
   
   
-  <h3>👾 My Git Stats 👾</h3>
+  <h3>👾 My Git Stats 👾</h3>  
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe1129&show_icons=true&theme=transparent)
   
