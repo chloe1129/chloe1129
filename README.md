@@ -6,7 +6,7 @@
   
   ### Welcome to my Git 
   
-  ### I'm Chloe 👋 
+  ### Hi, I'm Chloe 👋 
   
   <br>   
   
