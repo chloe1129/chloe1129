@@ -4,9 +4,9 @@
 
   
   
-  ### Welcome to my Git 
+  ### Welcome to my Git  
   
-  ### Hi, I'm Chloe 👋 
+  ### Hi, I'm Chloe 👋  
   
   <br>   
   
