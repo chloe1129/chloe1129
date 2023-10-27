@@ -4,13 +4,11 @@
 
   
   
-  ### Welcome to my Git  
-  
-  ### Hi, I'm Chloe 👋  
+  ### Welcome 👋  
   
   <br>   
   
-  ### 💻 My Skills 💻 
+  ### 💻 Skills 💻 
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -35,7 +33,7 @@
   <br>  
     
   
-  <h3>🗣 My Most Used Language 🗣</h3>
+  <h3>🗣 Most Used Language 🗣</h3>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloe1129&layout=compact)](https://github.com/chloe1129/github-readme-stats)
   
